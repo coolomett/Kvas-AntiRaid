@@ -1,0 +1,15 @@
+{
+    "stats": {
+        "preventive_bans": 0,
+        "total_bans": 0,
+        "deleted_channels": 0,
+        "deleted_messages": 0,
+        "raids_prevented": 0
+    },
+    "trusted": [],
+    "banwords": [],
+    "bannedurls": [],
+    "lockdown": False,
+    "raidmode": False,
+    "backups": {}
+}
